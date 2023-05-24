@@ -50,7 +50,3 @@ create table mechanic(
 
 
 
-
-
-
-
